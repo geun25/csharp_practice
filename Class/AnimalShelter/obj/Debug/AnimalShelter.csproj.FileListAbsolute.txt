@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.Form1.resources
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\Users\jin yeong\Desktop\C#\클래스\AnimalShelter\obj\Debug\AnimalShelter.pdb
