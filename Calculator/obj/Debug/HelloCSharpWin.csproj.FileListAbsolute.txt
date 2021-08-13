@@ -1,0 +1,20 @@
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe.config
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\bin\Debug\HelloCSharpWin.pdb
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.Calculator.resources
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.exe
+C:\Users\jin yeong\Desktop\C#\HelloCSharpWin\obj\Debug\HelloCSharpWin.pdb
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe.config
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\bin\Debug\HelloCSharpWin.exe
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\bin\Debug\HelloCSharpWin.pdb
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.Calculator.resources
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.exe
+C:\Users\jin yeong\Desktop\C#\Alongside Y\HelloCSharpWin\obj\Debug\HelloCSharpWin.pdb
