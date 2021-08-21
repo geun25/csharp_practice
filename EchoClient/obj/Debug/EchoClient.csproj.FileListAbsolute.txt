@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\bin\Debug\EchoClient.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\bin\Debug\EchoClient.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\bin\Debug\EchoClient.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\obj\Debug\EchoClient.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoClient\obj\Debug\EchoClient.pdb

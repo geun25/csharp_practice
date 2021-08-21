@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\bin\Debug\@abstract.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\bin\Debug\@abstract.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\bin\Debug\@abstract.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\obj\Debug\@abstract.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\abstract\obj\Debug\@abstract.pdb

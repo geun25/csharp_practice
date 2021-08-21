@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\bin\Debug\Exam14_2.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\bin\Debug\Exam14_2.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\bin\Debug\Exam14_2.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\obj\Debug\Exam14_2.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\obj\Debug\Exam14_2.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\obj\Debug\Exam14_2.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam14_2\obj\Debug\Exam14_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\bin\Debug\DeepCopy.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\bin\Debug\DeepCopy.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\bin\Debug\DeepCopy.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\obj\Debug\DeepCopy.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\obj\Debug\DeepCopy.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\obj\Debug\DeepCopy.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\DeepCopy\obj\Debug\DeepCopy.pdb

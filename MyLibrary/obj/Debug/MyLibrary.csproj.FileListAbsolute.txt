@@ -1,0 +1,6 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\SerializingCollection\bin\Debug\SerializingCollection.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\SerializingCollection\bin\Debug\SerializingCollection.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\SerializingCollection\bin\Debug\SerializingCollection.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\SerializingCollection\obj\Debug\SerializingCollection.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\SerializingCollection\obj\Debug\SerializingCollection.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\SerializingCollection\obj\Debug\SerializingCollection.pdb

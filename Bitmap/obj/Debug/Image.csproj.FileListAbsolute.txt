@@ -1,0 +1,5 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Bitmap\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Bitmap\obj\Debug\Image.Form1.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Bitmap\obj\Debug\Bitmap.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Bitmap\obj\Debug\Image.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Bitmap\obj\Debug\Image.csproj.CoreCompileInputs.cache

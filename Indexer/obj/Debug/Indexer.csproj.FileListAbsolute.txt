@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\bin\Debug\Indexer.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\bin\Debug\Indexer.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\obj\Debug\Indexer.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Indexer\obj\Debug\Indexer.pdb

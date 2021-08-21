@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\bin\Debug\MulInterInherit.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\bin\Debug\MulInterInherit.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\bin\Debug\MulInterInherit.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\obj\Debug\MulInterInherit.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\obj\Debug\MulInterInherit.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\obj\Debug\MulInterInherit.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\MulInterInherit\obj\Debug\MulInterInherit.pdb

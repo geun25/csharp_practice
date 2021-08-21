@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EchoServer\obj\Debug\EchoServer.pdb

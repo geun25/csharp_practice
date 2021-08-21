@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\bin\Debug\EnumerableGeneric.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\bin\Debug\EnumerableGeneric.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\obj\Debug\EnumerableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\obj\Debug\EnumerableGeneric.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\EnumerableGeneric\obj\Debug\EnumerableGeneric.pdb

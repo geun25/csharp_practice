@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\bin\Debug\ExceptionFiltering.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\bin\Debug\ExceptionFiltering.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\obj\Debug\ExceptionFiltering.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\obj\Debug\ExceptionFiltering.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\obj\Debug\ExceptionFiltering.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ExceptionFiltering\obj\Debug\ExceptionFiltering.pdb

@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\bin\Debug\대화상자3.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\bin\Debug\대화상자3.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\bin\Debug\대화상자3.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.Form1.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\대화상자3\대화상자3\obj\Debug\대화상자3.pdb

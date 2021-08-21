@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\TypeCasting\obj\Debug\TypeCasting.pdb

@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\bin\Debug\Ramda_Action.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\bin\Debug\Ramda_Action.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\bin\Debug\Ramda_Action.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\obj\Debug\Ramda_Action.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\obj\Debug\Ramda_Action.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\obj\Debug\Ramda_Action.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Ramda_Action\obj\Debug\Ramda_Action.pdb

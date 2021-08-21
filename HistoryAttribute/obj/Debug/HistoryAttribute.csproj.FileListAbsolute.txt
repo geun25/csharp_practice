@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\bin\Debug\HistoryAttribute.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\bin\Debug\HistoryAttribute.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\bin\Debug\HistoryAttribute.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\obj\Debug\HistoryAttribute.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\obj\Debug\HistoryAttribute.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\obj\Debug\HistoryAttribute.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\HistoryAttribute\obj\Debug\HistoryAttribute.pdb

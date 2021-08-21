@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\bin\Debug\UsingDeclaration.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\bin\Debug\UsingDeclaration.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\bin\Debug\UsingDeclaration.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\obj\Debug\UsingDeclaration.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\obj\Debug\UsingDeclaration.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\obj\Debug\UsingDeclaration.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingDeclaration\obj\Debug\UsingDeclaration.pdb

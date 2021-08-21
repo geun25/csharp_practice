@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\bin\Debug\ListView.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\bin\Debug\ListView.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\bin\Debug\ListView.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.Form1.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\ListView\obj\Debug\ListView.pdb

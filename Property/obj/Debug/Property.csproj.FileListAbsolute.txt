@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\bin\Debug\Property.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\bin\Debug\Property.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\bin\Debug\Property.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\obj\Debug\Property.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\obj\Debug\Property.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Property\obj\Debug\Property.pdb

@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\bin\Debug\Exam8_5.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\bin\Debug\Exam8_5.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\bin\Debug\Exam8_5.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\bin\Debug\MyLibrary.dll
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\bin\Debug\MyLibrary.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\obj\Debug\Exam8_5.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\obj\Debug\Exam8_5.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\obj\Debug\Exam8_5.csproj.CopyComplete
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\obj\Debug\Exam8_5.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Exam8_5\obj\Debug\Exam8_5.pdb

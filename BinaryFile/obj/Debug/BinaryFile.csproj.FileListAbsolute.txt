@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\bin\Debug\BinaryFile.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\bin\Debug\BinaryFile.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\bin\Debug\BinaryFile.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\obj\Debug\BinaryFile.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\obj\Debug\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\obj\Debug\BinaryFile.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\BinaryFile\obj\Debug\BinaryFile.pdb

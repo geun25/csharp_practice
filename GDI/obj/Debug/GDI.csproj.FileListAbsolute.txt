@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\bin\Debug\GDI.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\bin\Debug\GDI.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\bin\Debug\GDI.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.Form1.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\GDI\obj\Debug\GDI.pdb

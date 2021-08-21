@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\StudentManagement\obj\Debug\StudentManagement.pdb

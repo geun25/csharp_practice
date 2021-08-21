@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.Form1.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\bin\Debug\Mouse.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\bin\Debug\Mouse.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\bin\Debug\Mouse.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\Mouse\obj\Debug\Mouse.pdb

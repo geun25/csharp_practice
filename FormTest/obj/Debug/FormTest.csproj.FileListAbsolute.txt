@@ -1,0 +1,10 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\bin\Debug\FormTest.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\bin\Debug\FormTest.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.Form1.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.csproj.GenerateResource.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\FormTest\obj\Debug\FormTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\bin\Debug\UsingTask.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\bin\Debug\UsingTask.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\bin\Debug\UsingTask.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\obj\Debug\UsingTask.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\obj\Debug\UsingTask.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\obj\Debug\UsingTask.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\UsingTask\obj\Debug\UsingTask.pdb

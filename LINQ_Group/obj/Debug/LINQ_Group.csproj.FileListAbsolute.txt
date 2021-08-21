@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\bin\Debug\LINQ_Group.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\bin\Debug\LINQ_Group.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\bin\Debug\LINQ_Group.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\obj\Debug\LINQ_Group.csproj.AssemblyReference.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\obj\Debug\LINQ_Group.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\obj\Debug\LINQ_Group.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_Group\obj\Debug\LINQ_Group.pdb

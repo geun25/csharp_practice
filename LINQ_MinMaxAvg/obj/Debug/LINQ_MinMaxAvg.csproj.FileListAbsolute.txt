@@ -1,0 +1,7 @@
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\bin\Debug\LINQ_MinMaxAvg.exe.config
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\bin\Debug\LINQ_MinMaxAvg.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\bin\Debug\LINQ_MinMaxAvg.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\obj\Debug\LINQ_MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\obj\Debug\LINQ_MinMaxAvg.exe
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\obj\Debug\LINQ_MinMaxAvg.pdb
+C:\Users\jin yeong\Desktop\C#\인프런\csharp\LINQ_MinMaxAvg\obj\Debug\LINQ_MinMaxAvg.csproj.AssemblyReference.cache
