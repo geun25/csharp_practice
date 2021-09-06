@@ -1,0 +1,10 @@
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.Form1.resources
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.Properties.Resources.resources
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.csproj.GenerateResource.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\bin\Debug\CrossThread.exe.config
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\bin\Debug\CrossThread.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\bin\Debug\CrossThread.pdb
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\CrossThread\obj\Debug\CrossThread.pdb

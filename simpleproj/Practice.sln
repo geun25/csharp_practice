@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadLogic", "Thread\Threa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadLogic2", "ThreadLogic2\ThreadLogic2.csproj", "{497ED9DE-9ECC-4D14-8C0A-55C7352A5DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossThread", "CrossThread\CrossThread.csproj", "{A4DC8855-AD8D-4F73-886A-BBC40CF26994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{497ED9DE-9ECC-4D14-8C0A-55C7352A5DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{497ED9DE-9ECC-4D14-8C0A-55C7352A5DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{497ED9DE-9ECC-4D14-8C0A-55C7352A5DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DC8855-AD8D-4F73-886A-BBC40CF26994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DC8855-AD8D-4F73-886A-BBC40CF26994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DC8855-AD8D-4F73-886A-BBC40CF26994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DC8855-AD8D-4F73-886A-BBC40CF26994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
