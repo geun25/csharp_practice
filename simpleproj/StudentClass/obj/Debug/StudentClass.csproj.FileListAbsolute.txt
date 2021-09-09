@@ -1,0 +1,7 @@
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\obj\Debug\StudentClass.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\obj\Debug\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\StudentClass\obj\Debug\StudentClass.pdb
