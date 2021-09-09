@@ -1,0 +1,7 @@
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\bin\Debug\DelieveryFee.exe.config
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\bin\Debug\DelieveryFee.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\bin\Debug\DelieveryFee.pdb
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\obj\Debug\DeliveryFee.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\obj\Debug\DeliveryFee.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\obj\Debug\DelieveryFee.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\DelieveryFee\obj\Debug\DelieveryFee.pdb
