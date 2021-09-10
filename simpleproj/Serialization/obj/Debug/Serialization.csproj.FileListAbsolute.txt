@@ -1,0 +1,7 @@
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\bin\Debug\Serialization.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\bin\Debug\Serialization.pdb
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\obj\Debug\Serialization.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\obj\Debug\Serialization.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\Serialization\obj\Debug\Serialization.pdb
