@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 // 응용
 // 단일체
 // 초기화 - 도시생성
-// 시뮬레이션 - 도시선택, 택배생성, 요금계신
+// 시뮬레이션 - 도시선택, 택배생성, 요금계산
 
 namespace DeliveryFee
 {

@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-화 대상에서 배제
-// NonSerialized 어트리뷰트 저장                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 namespace SelectiveSerialization
 {
     [Serializable]// 직렬화 대상으로 형식 정의
@@ -43,10 +37,7 @@ namespace SelectiveSerialization
 
         public override string ToString() // 이름, 아이큐, 공부한 시간
         {
-            return base.ToString();
-            {
-                return string.Format($"{Name} {IQ} {scnt}");
-            }
+            return string.Format($"{Name} {IQ} {scnt}");
         }
     }
 }

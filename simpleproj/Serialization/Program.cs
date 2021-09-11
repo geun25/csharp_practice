@@ -1,10 +1,11 @@
 ﻿using System;
 using System.IO;
-using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization.Formatters.Soap;
 
 namespace Serialization
 {
+
+    // 프로세스의 개체정보를 다른 물리 매체로 선형적인 방법으로 전달
     class Program
     {
         static void Main(string[] args)

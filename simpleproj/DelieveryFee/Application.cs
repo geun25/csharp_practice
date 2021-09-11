@@ -1,17 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DeliveryFee
 {
     class Application
     {
         #region 단일체 패턴
-        static Application application;
+        static Application application; // 정적 멤버
 
-        static Application()
+        static Application() // 정적 생성자
         {
             application = new Application();
         }
@@ -79,7 +76,7 @@ namespace DeliveryFee
             {
                 Console.Write($"{i}:{cities[i].Name}");
             }
-            Console.Write("):");
+            Console.Write("):"); // 사용자 입력
 
             int index = 0;
             if (int.TryParse(Console.ReadLine(), out index) == false)

@@ -23,7 +23,7 @@ namespace CrossThread
         static FileManager()
         {
             DirectoryInfo di = new DirectoryInfo(src_dir);
-            FileInfo[] fis = di.GetFiles();
+            FileInfo[] fis = di.GetFiles(); // 파일 목록 컬렉션
             foreach(FileInfo fi in fis)
             {
                 if (fi.Attributes == FileAttributes.Archive)
@@ -38,7 +38,7 @@ namespace CrossThread
         public static void MoveStartAsync()
         {
             MoveDele dele = MoveStart;
-            dele.BeginInvoke(null, null);
+            dele.BeginInvoke(null, null); // 비동기 실행 
         }
 
         public static void MoveStart()
