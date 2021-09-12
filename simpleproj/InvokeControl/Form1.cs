@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Automation;
 using System.Windows.Forms;
 
@@ -23,7 +16,7 @@ namespace InvokeControl
         {
             lbox_process.Items.Clear();
             Process[] processes = Process.GetProcesses();
-            foreach(Process pro in processes)
+            foreach(Process pro in processes) // 사용자와 상호작용 가능한 프로세스 선별
             {
                 if (pro.MainWindowHandle != IntPtr.Zero)
                     lbox_process.Items.Add(new WrapProcess(pro));
@@ -51,7 +44,7 @@ namespace InvokeControl
         void OnUIAutomationEvent(object sender, AutomationEventArgs e)
         {
             AutomationElement ae = sender as AutomationElement;
-            AddEvent(ae);
+            AddEvent(ae); // lbox_history에 추가
         }
 
         delegate void AddEventDele(AutomationElement ae);
