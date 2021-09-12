@@ -1,0 +1,10 @@
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\bin\Debug\InvokeControl.exe.config
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\bin\Debug\InvokeControl.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\bin\Debug\InvokeControl.pdb
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.csproj.AssemblyReference.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.Form1.resources
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.Properties.Resources.resources
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.csproj.GenerateResource.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.csproj.CoreCompileInputs.cache
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.exe
+C:\Users\jin yeong\.vscode\csharp_practice\simpleproj\InvokeControl\obj\Debug\InvokeControl.pdb
