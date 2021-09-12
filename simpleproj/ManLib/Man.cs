@@ -44,14 +44,14 @@ namespace ManLib
         public int Study(int scnt)
         {
             Console.WriteLine("Study");
-            IQ += scnt;
+            IQ += scnt; // 연속으로 공부한 횟수만큼 IQ 증가
             return IQ;
         }
 
         static public Man MoreSmart(Man m1, Man m2)
         {
             Console.WriteLine("Man.MoreSmart");
-            if (m1.IQ > m2.IQ)
+            if (m1.IQ > m2.IQ) // 두 개체중 IQ가 높은 개체 반환
                 return m1;
             return m2;
         }
