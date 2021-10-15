@@ -6,56 +6,50 @@ using System.Threading.Tasks;
 
 namespace GenTest
 {
-    class Calc
+    class BaseClass { }
+
+    class MyClass<T, U>
+        where T : BaseClass
+        where U : IComparable
     {
-        public int Add(int a, int b)
-        {
-            int result = a + b;
-            return result;
-        }
 
-        public int Substract(int a, int b)
-        {
-            int result = a - b;
-            return result;
-        }
-
-        public int Multiply(int a, int b)
-        {
-            int result = a * b;
-            return result;
-        }
-
-        public int Divide(int a, int b)
-        {
-            int result = a / b;
-            return result;
-        }
     }
 
-    class DoubleCalc
+    class Calc<T> where T : struct // class 타입 불가
     {
-        public double Add(double a, double b)
+        public T Add(T a, T b)
         {
-            double result = a + b;
+            dynamic da = a;
+            dynamic db = b;
+
+            T result = da + db;
             return result;
         }
 
-        public double Substract(double a, double b)
+        public T Substract(T a, T b)
         {
-            double result = a - b;
+            dynamic da = a;
+            dynamic db = b;
+
+            T result = da - db;
             return result;
         }
 
-        public double Multiply(double a, double b)
+        public T Multiply(T a, T b)
         {
-            double result = a * b;
+            dynamic da = a;
+            dynamic db = b;
+
+            T result = da * db;
             return result;
         }
 
-        public double Divide(double a, double b)
+        public T Divide(T a, T b)
         {
-            double result = a / b;
+            dynamic da = a;
+            dynamic db = b;
+
+            T result = da / db;
             return result;
         }
     }
