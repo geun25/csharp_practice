@@ -1,0 +1,6 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\ModLog\bin\Debug\ModLog.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\ModLog\bin\Debug\ModLog.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\ModLog\obj\Debug\ModLog.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\ModLog\obj\Debug\ModLog.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\ModLog\obj\Debug\ModLog.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\ModLog\obj\Debug\ModLog.pdb
