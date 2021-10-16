@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\bin\Debug\IndexerTest.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\bin\Debug\IndexerTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\bin\Debug\IndexerTest.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\obj\Debug\IndexerTest.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\obj\Debug\IndexerTest.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\obj\Debug\IndexerTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\IndexerTest\obj\Debug\IndexerTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\bin\Debug\StaticTest.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\bin\Debug\StaticTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\bin\Debug\StaticTest.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\obj\Debug\StaticTest.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\obj\Debug\StaticTest.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\obj\Debug\StaticTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\StaticTest\obj\Debug\StaticTest.pdb

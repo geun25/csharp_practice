@@ -1,0 +1,6 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MsgApp\bin\Debug\MsgApp.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MsgApp\bin\Debug\MsgApp.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MsgApp\bin\Debug\MsgApp.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MsgApp\obj\Debug\MsgApp.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MsgApp\obj\Debug\MsgApp.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MsgApp\obj\Debug\MsgApp.pdb

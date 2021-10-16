@@ -1,0 +1,9 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\bin\Debug\MyPaintCustom.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\bin\Debug\MyPaintCustom.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\bin\Debug\MyPaintItf.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\bin\Debug\MyPaintItf.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\obj\Debug\MyPaintCustom.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\obj\Debug\MyPaintCustom.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\obj\Debug\MyPaintCustom.csproj.CopyComplete
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\obj\Debug\MyPaintCustom.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintCustom\obj\Debug\MyPaintCustom.pdb

@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\bin\Debug\DelegateTest.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\bin\Debug\DelegateTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\bin\Debug\DelegateTest.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\obj\Debug\DelegateTest.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\obj\Debug\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\obj\Debug\DelegateTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\DelegateTest\obj\Debug\DelegateTest.pdb

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaint", "MyPaint\MyPaint.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaintCustom", "MyPaintCustom\MyPaintCustom.csproj", "{7D13D49D-79AC-4D34-84A2-1C231F331AF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPaintItf", "MyPaintItf\MyPaintItf.csproj", "{47332A23-1ECF-47E4-8B19-2387EA1243B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateTest", "DelegateTest\DelegateTest.csproj", "{F308ED7D-3C45-4A97-805C-1ED420CA5079}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{7D13D49D-79AC-4D34-84A2-1C231F331AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D13D49D-79AC-4D34-84A2-1C231F331AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D13D49D-79AC-4D34-84A2-1C231F331AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47332A23-1ECF-47E4-8B19-2387EA1243B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47332A23-1ECF-47E4-8B19-2387EA1243B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47332A23-1ECF-47E4-8B19-2387EA1243B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47332A23-1ECF-47E4-8B19-2387EA1243B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F308ED7D-3C45-4A97-805C-1ED420CA5079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F308ED7D-3C45-4A97-805C-1ED420CA5079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F308ED7D-3C45-4A97-805C-1ED420CA5079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F308ED7D-3C45-4A97-805C-1ED420CA5079}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

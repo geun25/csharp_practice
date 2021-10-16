@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using MyPaint;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MyPaintCustom
 {
-    public class Pie
+    public class Pie : IDrawable
     {
         public Rectangle Rect { get; }
         public float StartAngle { get; }

@@ -1,0 +1,6 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\GenTest\bin\Debug\GenTest.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\GenTest\bin\Debug\GenTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\GenTest\bin\Debug\GenTest.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\GenTest\obj\Debug\GenTest.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\GenTest\obj\Debug\GenTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\GenTest\obj\Debug\GenTest.pdb

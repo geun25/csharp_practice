@@ -1,0 +1,6 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintItf\bin\Debug\MyPaintItf.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintItf\bin\Debug\MyPaintItf.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintItf\obj\Debug\MyPaintItf.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintItf\obj\Debug\MyPaintItf.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintItf\obj\Debug\MyPaintItf.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\MyPaintItf\obj\Debug\MyPaintItf.pdb
