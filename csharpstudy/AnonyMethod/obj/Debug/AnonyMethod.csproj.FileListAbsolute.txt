@@ -1,0 +1,10 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\bin\Debug\AnonyMethod.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\bin\Debug\AnonyMethod.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\bin\Debug\AnonyMethod.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.Form1.resources
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.Properties.Resources.resources
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.csproj.GenerateResource.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyMethod\obj\Debug\AnonyMethod.pdb

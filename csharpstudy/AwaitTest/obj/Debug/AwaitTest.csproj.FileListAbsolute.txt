@@ -1,0 +1,10 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\bin\Debug\AwaitTest.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\bin\Debug\AwaitTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\bin\Debug\AwaitTest.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.Form1.resources
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.Properties.Resources.resources
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.csproj.GenerateResource.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AwaitTest\obj\Debug\AwaitTest.pdb

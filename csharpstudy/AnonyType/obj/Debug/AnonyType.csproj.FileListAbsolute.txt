@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\bin\Debug\AnonyType.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\bin\Debug\AnonyType.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\bin\Debug\AnonyType.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\obj\Debug\AnonyType.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\obj\Debug\AnonyType.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\obj\Debug\AnonyType.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\csharpstudy\AnonyType\obj\Debug\AnonyType.pdb
