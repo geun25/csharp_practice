@@ -33,7 +33,7 @@ namespace StaticTest
             counter = 0;
         }
 
-        private static object objLock = new object(); // 멀티 스레드 중복방지
+        //private static object objLock = new object(); // 멀티 스레드 중복방지
         public static int NextCount
         {
             get

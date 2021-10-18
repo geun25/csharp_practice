@@ -14,7 +14,6 @@ namespace MyPaint
         public string Tag { get; set; }
 
         //기본 그리기 기능
-        
 
         //고급 기능들
         public abstract void Clip();

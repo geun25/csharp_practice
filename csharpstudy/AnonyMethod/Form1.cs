@@ -50,7 +50,7 @@ namespace AnonyMethod
 
             Func<int, int> sq = (x) => x * x; // 별도의 델리게이트 정의 필요없음.
 
-            // 람다식을 메서드의 파리미터로 전달
+            // 람다식을 메서드의 파라미터로 전달
             GetData(p => p.StartsWith("A"));
             GetData(p => p.Contains("an"));
             GetData(p => p.Substring(0, 1) == "P" && p.Substring(2, 1) == "n");
