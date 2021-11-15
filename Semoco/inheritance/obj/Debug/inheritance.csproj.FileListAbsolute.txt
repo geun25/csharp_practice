@@ -1,0 +1,6 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\inheritance\bin\Debug\inheritance.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\inheritance\bin\Debug\inheritance.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\inheritance\obj\Debug\inheritance.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\inheritance\obj\Debug\inheritance.pdb

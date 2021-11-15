@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\bin\Debug\capsulation.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\bin\Debug\capsulation.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\bin\Debug\capsulation.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\obj\Debug\capsulation.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\obj\Debug\capsulation.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\obj\Debug\capsulation.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\capsulation\obj\Debug\capsulation.pdb

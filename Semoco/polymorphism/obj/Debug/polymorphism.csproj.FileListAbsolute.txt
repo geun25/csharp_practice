@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\bin\Debug\polymorphism.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\bin\Debug\polymorphism.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\bin\Debug\polymorphism.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\obj\Debug\polymorphism.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\polymorphism\obj\Debug\polymorphism.pdb
