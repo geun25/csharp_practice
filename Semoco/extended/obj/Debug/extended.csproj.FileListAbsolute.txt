@@ -1,0 +1,6 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\extended\bin\Debug\extended.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\extended\bin\Debug\extended.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\extended\bin\Debug\extended.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\extended\obj\Debug\extended.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\extended\obj\Debug\extended.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\extended\obj\Debug\extended.pdb

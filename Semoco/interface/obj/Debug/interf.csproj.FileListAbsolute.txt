@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\bin\Debug\@interface.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\bin\Debug\@interface.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\bin\Debug\@interface.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\obj\Debug\interf.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\obj\Debug\interf.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\obj\Debug\@interface.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\interface\obj\Debug\@interface.pdb

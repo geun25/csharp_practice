@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\bin\Debug\reference.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\bin\Debug\reference.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\bin\Debug\reference.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\obj\Debug\reference.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\obj\Debug\reference.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\obj\Debug\reference.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\reference\obj\Debug\reference.pdb
