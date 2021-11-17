@@ -1,0 +1,7 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\bin\Debug\linqlamda.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\bin\Debug\linqlamda.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\bin\Debug\linqlamda.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\obj\Debug\linqlamda.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\obj\Debug\linqlamda.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\obj\Debug\linqlamda.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\Semoco\linqlamda\obj\Debug\linqlamda.pdb
