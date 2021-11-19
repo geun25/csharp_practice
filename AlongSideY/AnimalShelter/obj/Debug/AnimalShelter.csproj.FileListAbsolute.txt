@@ -1,0 +1,10 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\bin\Debug\AnimalShelter.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\bin\Debug\AnimalShelter.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\bin\Debug\AnimalShelter.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.Form1.resources
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.Properties.Resources.resources
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.csproj.GenerateResource.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\AnimalShelter\obj\Debug\AnimalShelter.pdb
