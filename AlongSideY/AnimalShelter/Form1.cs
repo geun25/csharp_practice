@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,8 +13,7 @@ namespace AnimalShelter
 {
     public partial class Form1 : Form
     {
-        public Customer[] CustomerArray = new Customer[10];
-        public int CustomerArrayIndex = 0;
+        public List<Customer> Customers = new List<Customer>();
 
         public Form1()
         {
@@ -22,14 +22,20 @@ namespace AnimalShelter
 
         private void CreateCustomer_Click(object sender, EventArgs e)
         {
-            CustomerArray[CustomerArrayIndex] = new Customer(CusNewFirstName.Text, CusNewLastName.Text, DateTime.Parse(CusNewBirthday.Text));
+            Customer cus = new Customer(CusNewFirstName.Text, CusNewLastName.Text, DateTime.Parse(CusNewBirthday.Text));
 
-            CustomerArray[CustomerArrayIndex].Address = CusNewAddress.Text;
-            CustomerArray[CustomerArrayIndex].Description = CusNewDescription.Text;
+            cus.Address = CusNewAddress.Text;
+            cus.Description = CusNewDescription.Text;
 
-            CustomerList.Items.Add(CustomerArray[CustomerArrayIndex].FirstName);
+            CusList.Rows.Add(cus.FirstName, cus.Age, cus.IsQualified);
 
-            CustomerArrayIndex++;
+            Customers.Add(cus);
+
+            CusNewFirstName.Text = "";
+            CusNewLastName.Text = "";
+            CusNewAddress.Text = "";
+            CusNewBirthday.Text = "";
+            CusNewDescription.Text = ""; 
         }
 
         public void ShowDetails(Customer cus)
@@ -39,20 +45,55 @@ namespace AnimalShelter
             CusAddress.Text = cus.Address;
             CusDescription.Text = cus.Description;
             CusIsQualified.Text = cus.IsQualified.ToString();
+
+            CusPetInfo.Text = "";
+            foreach(Cat cat in cus.MyCats)
+                CusPetInfo.Text += cat.Name + ":" + cat.MakeSound() + Environment.NewLine;
+
+            foreach(Dog dog in cus.MyDogs)
+                CusPetInfo.Text += dog.Name + ":" + dog.MakeSound() + Environment.NewLine;
         }
 
-        private void CustomerList_Click(object sender, EventArgs e)
+        private void CusList_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            string firstname = CustomerList.SelectedItem.ToString();
+            string firstname = (string)CusList.Rows[e.RowIndex].Cells[0].Value;
 
-            for(int index = 0; index < CustomerArrayIndex; index++)
+            foreach (Customer cus in Customers)
             {
-                if(CustomerArray[index].FirstName == firstname)
+                if (cus.FirstName == firstname)
                 {
-                    ShowDetails(CustomerArray[index]);
+                    ShowDetails(cus);
                     break;
                 }
             }
+
+            CusDetailPanel.Show();
+            CusNewPanel.Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            CusListPanel.Dock = DockStyle.Fill;
+            CusDetailPanel.Dock = DockStyle.Right;
+            CusNewPanel.Dock = DockStyle.Right;
+
+            Customer cus = new Customer("dogeun", "kim", new DateTime(1997, 4, 25));
+            Cat cat = new Cat(1, "Lucas", "White", "Male");
+            cus.Adopt(cat);
+            Cat cat2 = new Cat(3, "Ruby", "Brown", "Female");
+            cus.Adopt(cat2);
+
+            Dog dog = new Dog(2, "Happy", "Black", "Male", DogBreed.Jindo);
+            cus.Adopt(dog);
+
+            Customers.Add(cus);
+            CusList.Rows.Add(cus.FirstName, cus.Age, cus.IsQualified);
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            CusNewPanel.Show();
+            CusDetailPanel.Hide();
         }
     }
 }
