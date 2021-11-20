@@ -47,11 +47,21 @@ namespace AnimalShelter
             CusIsQualified.Text = cus.IsQualified.ToString();
 
             CusPetInfo.Text = "";
-            foreach(Cat cat in cus.MyCats)
-                CusPetInfo.Text += cat.Name + ":" + cat.MakeSound() + Environment.NewLine;
+            foreach(Pet pet in cus.MyPets)
+            { 
+                CusPetInfo.Text += pet.Name + ":" + pet.MakeSound();
+                
+                if(pet is Cat)
+                {
+                    CusPetInfo.Text += ":" + (pet as Cat).Scratch();
+                }
+                else if(pet is Dog)
+                {
+                    CusPetInfo.Text += ":" + (pet as Dog).Bite();
+                }
 
-            foreach(Dog dog in cus.MyDogs)
-                CusPetInfo.Text += dog.Name + ":" + dog.MakeSound() + Environment.NewLine;
+                CusPetInfo.Text += Environment.NewLine;
+            }
         }
 
         private void CusList_CellClick(object sender, DataGridViewCellEventArgs e)

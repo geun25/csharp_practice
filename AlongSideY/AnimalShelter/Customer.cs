@@ -15,43 +15,24 @@ namespace AnimalShelter
         public string Address;
         public string Description;
 
-        private List<Cat> _MyCats = new List<Cat>();
-        public List<Cat> MyCats
+        private List<Pet> _MyPets = new List<Pet>();
+        public List<Pet> MyPets
         {
-            get { return _MyCats; }
+            get { return _MyPets; }
         }
 
-        public bool Adopt(Cat cat)
+        public bool Adopt(Pet pet)
         {
             if (_IsQualified)
             {
-                _MyCats.Add(cat);
+                _MyPets.Add(pet);
                 return true;
             }
             else
             {
                 return false;
             }
-        }
-
-        private List<Dog> _MyDogs = new List<Dog>();
-        public List<Dog> MyDogs
-        {
-            get { return _MyDogs; }
-        }
-
-        public bool Adopt(Dog dog)
-        {
-            if (_IsQualified)
-            {
-                _MyDogs.Add(dog);
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
+        }       
 
         public Customer(string firstName, string lastName, DateTime birthday)
         {
