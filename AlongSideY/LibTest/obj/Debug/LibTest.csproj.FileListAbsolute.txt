@@ -1,0 +1,10 @@
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\bin\Debug\LibTest.exe.config
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\bin\Debug\LibTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\bin\Debug\LibTest.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\bin\Debug\ClassLibrary.dll
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\bin\Debug\ClassLibrary.pdb
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\obj\Debug\LibTest.csproj.AssemblyReference.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\obj\Debug\LibTest.csproj.CoreCompileInputs.cache
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\obj\Debug\LibTest.csproj.CopyComplete
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\obj\Debug\LibTest.exe
+C:\Users\rlaeh\source\repos\geun25\csharp_practice\AlongSideY\LibTest\obj\Debug\LibTest.pdb
