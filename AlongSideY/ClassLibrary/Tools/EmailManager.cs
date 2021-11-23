@@ -11,9 +11,12 @@ namespace ClassLibrary.Tools
 {
     public class EmailManager
     {
-        public static void Send(string to, string subject, string contents)
+        public static void Send(string from, string to, string subject, string contents, string cc, string bcc)
         {
-            string sender = ConfigurationManager.AppSettings["SMTPSender"];
+            if (String.IsNullOrEmpty(from))
+                throw new ArgumentException("Sender is empty.");
+            if (String.IsNullOrEmpty(to))
+                throw new ArgumentException("To is empty.");
 
             string smtpHost = ConfigurationManager.AppSettings["SMTPHost"];
             int smtpPort = 0;
@@ -25,8 +28,13 @@ namespace ClassLibrary.Tools
             string smtpPwd = ConfigurationManager.AppSettings["SMTPPassword"];
 
             MailMessage mailMsg = new MailMessage();
-            mailMsg.From = new MailAddress(sender);
+            mailMsg.From = new MailAddress(from);
             mailMsg.To.Add(to);
+
+            if (!String.IsNullOrEmpty(cc))
+                mailMsg.CC.Add(cc);
+            if (!String.IsNullOrEmpty(bcc))
+                mailMsg.Bcc.Add(bcc);
 
             mailMsg.Subject = subject;
             mailMsg.IsBodyHtml = true;
@@ -38,6 +46,18 @@ namespace ClassLibrary.Tools
             smtpClient.Host = smtpHost;
             smtpClient.Port = smtpPort;
             smtpClient.Send(mailMsg);
+        }
+
+        public static void Send(string from, string to, string subject, string contents)
+        {
+            Send(from, to, subject, contents, null, null);
+        }
+
+            public static void Send(string to, string subject, string contents)
+        {
+            string sender = ConfigurationManager.AppSettings["SMTPSender"];
+            Send(sender, to, subject, contents);
+            
         }
     }
 }
