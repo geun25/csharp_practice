@@ -11,12 +11,54 @@ namespace ClassLibrary.Tools
 {
     public class EmailManager
     {
+        private MailMessage _MailMessage;
+        private SmtpClient _SmtpClient;
+
+        public EmailManager(string host, int port, string id, string password)
+        {
+            _SmtpClient = new SmtpClient(host, port);
+            _SmtpClient.Credentials = new NetworkCredential(id, password);
+
+            _MailMessage = new MailMessage();
+            _MailMessage.IsBodyHtml = true;
+            _MailMessage.Priority = MailPriority.Normal;
+        }
+
+        public string From
+        {
+            get { return _MailMessage.From == null ? String.Empty : _MailMessage.From.Address; }
+            set { _MailMessage.From = new MailAddress(value); }
+        }
+
+        public MailAddressCollection To
+        {
+            get { return _MailMessage.To; }
+        }
+
+        public string Subject
+        {
+            get { return _MailMessage.Subject; }
+            set { _MailMessage.Subject = value; }
+        }
+
+        public string Body
+        {
+            get { return _MailMessage.Body; }
+            set { _MailMessage.Body = value; }
+        }
+
+        public void Send()
+        {
+            _SmtpClient.Send(_MailMessage);
+        }
+
+        #region static methods
         public static void Send(string from, string to, string subject, string contents, string cc, string bcc)
         {
             if (String.IsNullOrEmpty(from))
-                throw new ArgumentException("Sender is empty.");
+                throw new ArgumentNullException("Sender is empty.");
             if (String.IsNullOrEmpty(to))
-                throw new ArgumentException("To is empty.");
+                throw new ArgumentNullException("To is empty.");
 
             string smtpHost = ConfigurationManager.AppSettings["SMTPHost"];
             int smtpPort = 0;
@@ -53,11 +95,11 @@ namespace ClassLibrary.Tools
             Send(from, to, subject, contents, null, null);
         }
 
-            public static void Send(string to, string subject, string contents)
+        public static void Send(string to, string subject, string contents)
         {
             string sender = ConfigurationManager.AppSettings["SMTPSender"];
             Send(sender, to, subject, contents);
-            
         }
+        #endregion
     }
 }
